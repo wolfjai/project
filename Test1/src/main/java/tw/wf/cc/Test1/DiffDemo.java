@@ -15,7 +15,14 @@ public class DiffDemo {
 	/**
 	 * 測試方法
 	 */
-	public void test1(){
+	public int test1(int a , int b){
+		return a+b;
+	}
+	
+	/**
+	 * 測試方法2
+	 */
+	public void test2(){
 		
 	}
 }
