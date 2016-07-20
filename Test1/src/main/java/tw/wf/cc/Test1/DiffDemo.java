@@ -11,4 +11,11 @@ public class DiffDemo {
 		}
 		return StringUtils.difference(str1, str2);
 	}
+	
+	/**
+	 * 測試方法
+	 */
+	public void test1(){
+		
+	}
 }
